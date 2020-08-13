@@ -1,0 +1,14 @@
+C:\Users\ogunoksuz\source\repos\YemekTarifleri_Sol\DataAccess\bin\Debug\netstandard2.0\DataAccess.deps.json
+C:\Users\ogunoksuz\source\repos\YemekTarifleri_Sol\DataAccess\bin\Debug\netstandard2.0\DataAccess.dll
+C:\Users\ogunoksuz\source\repos\YemekTarifleri_Sol\DataAccess\bin\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\ogunoksuz\source\repos\YemekTarifleri_Sol\DataAccess\bin\Debug\netstandard2.0\Core.dll
+C:\Users\ogunoksuz\source\repos\YemekTarifleri_Sol\DataAccess\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\ogunoksuz\source\repos\YemekTarifleri_Sol\DataAccess\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\ogunoksuz\source\repos\YemekTarifleri_Sol\DataAccess\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\ogunoksuz\source\repos\YemekTarifleri_Sol\DataAccess\obj\Debug\netstandard2.0\DataAccess.csprojAssemblyReference.cache
+C:\Users\ogunoksuz\source\repos\YemekTarifleri_Sol\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\ogunoksuz\source\repos\YemekTarifleri_Sol\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
+C:\Users\ogunoksuz\source\repos\YemekTarifleri_Sol\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ogunoksuz\source\repos\YemekTarifleri_Sol\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CopyComplete
+C:\Users\ogunoksuz\source\repos\YemekTarifleri_Sol\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
+C:\Users\ogunoksuz\source\repos\YemekTarifleri_Sol\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb
